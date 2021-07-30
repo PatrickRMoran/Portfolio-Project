@@ -1,5 +1,5 @@
 --World Heath Organization Covid 19 Data from Kaggle. This dataset contains confirmed, death and 
-recovered data from most countries including daily reported numbers from January 22nd to September 28th.
+--recovered data from most countries including daily reported numbers from January 22nd to September 28th.
 
 -- Skills used: Aggregate Function, Aliases, Converting Datatypes, Creating Views, CTEs, Joins, Subqueries and Temp Tables,  
 
